@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Maanavan/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Maanavan/static/js/main.33f51002.chunk.js",
+    "main.js.map": "/Maanavan/static/js/main.33f51002.chunk.js.map",
+    "runtime-main.js": "/Maanavan/static/js/runtime-main.101495bc.js",
+    "runtime-main.js.map": "/Maanavan/static/js/runtime-main.101495bc.js.map",
+    "static/js/2.a15d3121.chunk.js": "/Maanavan/static/js/2.a15d3121.chunk.js",
+    "static/js/2.a15d3121.chunk.js.map": "/Maanavan/static/js/2.a15d3121.chunk.js.map",
+    "static/js/3.50a71cc9.chunk.js": "/Maanavan/static/js/3.50a71cc9.chunk.js",
+    "static/js/3.50a71cc9.chunk.js.map": "/Maanavan/static/js/3.50a71cc9.chunk.js.map",
+    "index.html": "/Maanavan/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Maanavan/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a15d3121.chunk.js.LICENSE.txt": "/Maanavan/static/js/2.a15d3121.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.101495bc.js",
+    "static/js/2.a15d3121.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.33f51002.chunk.js"
+  ]
+}
